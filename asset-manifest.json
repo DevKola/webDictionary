@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/DevKola.github.io/webDictionary/static/css/main.cf7e9fa7.css",
-    "main.js": "/DevKola.github.io/webDictionary/static/js/main.6dfe1fd0.js",
+    "main.js": "/DevKola.github.io/webDictionary/static/js/main.bbb26366.js",
+    "static/js/453.015340c3.chunk.js": "/DevKola.github.io/webDictionary/static/js/453.015340c3.chunk.js",
     "index.html": "/DevKola.github.io/webDictionary/index.html",
     "main.cf7e9fa7.css.map": "/DevKola.github.io/webDictionary/static/css/main.cf7e9fa7.css.map",
-    "main.6dfe1fd0.js.map": "/DevKola.github.io/webDictionary/static/js/main.6dfe1fd0.js.map"
+    "main.bbb26366.js.map": "/DevKola.github.io/webDictionary/static/js/main.bbb26366.js.map",
+    "453.015340c3.chunk.js.map": "/DevKola.github.io/webDictionary/static/js/453.015340c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7e9fa7.css",
-    "static/js/main.6dfe1fd0.js"
+    "static/js/main.bbb26366.js"
   ]
 }
